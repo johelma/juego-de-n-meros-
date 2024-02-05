@@ -7,3 +7,6 @@ Para ejecutar el sistema, debes poner :
 ```npm install react```
 
 Juego de numeros 2
+
+sistema de registro 1
+
